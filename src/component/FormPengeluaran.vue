@@ -10,7 +10,7 @@
                 v-model="pengeluaran"
                 name="pengeluaran"
                 class="form-control"
-                placeholder="Masukan Nominal anda"
+                placeholder="Masukan uang anda"
                 id="pengeluaran"
               />
             </div>
@@ -25,7 +25,7 @@
               />
             </div>
 
-            <button class="btn btn-danger mt-3">Tambah</button>
+            <button class="btn btn-danger mt-3">Hasil</button>
           </div>
         </form>
       </div>
